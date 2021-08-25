@@ -1,0 +1,87 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+
+
+<div class="container">
+    <p  class="eightbit-banner">Essa é nossa lista de casa nova! </p>
+  <hr>
+
+<div class="alert alert-secondary2 text-center" role="alert">
+    Nessa lista colocamos algumas coisas que precisamos e queremos, com os <b>links</b> pra lojas onde os produtos estão disponíveis.
+    Se você recebeu, quer dizer que você faz <b>parte da nossa jornada</b>. </br></br>
+   
+  <ul>
+    <li>Caso queira presentear a gente com algo, não esqueça de avisar.</li>
+    <li>Seguem links dos nossos contatos, é só <b>clicar</b>:</br> 
+      <a href="https://wa.me/55021998846123" class="alert-link"><i class="fa fa-whatsapp" aria-hidden="true"></i>Link Brenda </a> ou 
+      <a href="https://wa.me/55021976937516" class="alert-link"><i class="fa fa-whatsapp" aria-hidden="true"></i>Link Josias</a>
+    </li>
+    <li>Ahh, se você não souber o que dar mas aquele dinheirinho sobrar, aceitamos pix <i class="fas fa-hand-holding-usd" aria-hidden="true"></i></li>
+    <li>Pode enviar para o nosso endereço (caso não saiba, pergunte a algum de nós). </li>
+
+  </ul></div>
+
+
+  <div class ="row">
+      <div class="col-md-2 center buttons-prod">
+      </div>
+      <div class="col-md-8 center buttons-prod">
+
+        {% for p in products_types %}
+
+            <button class="eightbit-btn" type="button" data-toggle="collapse" data-target="#{{p}}" aria-expanded="false" aria-controls="{{p}}">
+              {%if p == "Cama_mesa_e_banho"%}
+                Cama, mesa e banho
+              {% elif  p == "Utensílios_cozinha" %}
+                Utensílios cozinha
+              {% else %}
+                {{ p }} 
+              {%endif%}
+              <i class="fas fa-angle-double-up"></i>
+            </button>
+            <div class="collapse show" id="{{p}}">
+                {% for it_ in products_array %}
+                  {% if p == it_.tipo %}
+
+                      <div  class="float-containerBig"> 
+
+                        <div class="float-childBig">
+                          <img src="{{it_.img}}">
+                        </div>
+                        <div class="float-childBig">
+                          <div class="titleNm">{{ it_.name }}</div>
+                          {% if it_.status == 1 %}
+                            <div id="hr" style="border-top:4px solid #d67fa478; "></div>
+                            <div id="hrX" style="border-top:4px solid #d67fa478; "></div>
+                          {%endif%}
+
+                          <div  class="float-container"> 
+                            <div  class="float-child price">{% if it_.status == 0 %}{{ it_.price }}{%endif%}</div> 
+                            <a class="buy-button float-child" href="{{it_.link}}"  target="_blank" {% if it_.status == 1 %} style=" box-shadow: inset -2px -18px 0px 0px #c1c1c1;" {%endif%}> 
+                            {% if it_.status == 1 %}
+                              Reservado
+                            {% else %}
+                              Comprar em</br> {{it_.loja}} 
+                            {%endif%}
+                            </a> 
+                          </div>
+                        </div>
+
+                      </div>
+
+                  {%endif%}
+
+                {% endfor %}
+
+            </div>
+        {% endfor %}
+      </div>
+      <div class="col-md-2 center buttons-prod">
+      </div>
+  </div>
+
+
+  <hr>
+{% endblock %}

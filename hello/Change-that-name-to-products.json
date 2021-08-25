@@ -1,0 +1,275 @@
+[
+{
+    "id": 1,
+    "name": "Panela De Arroz Philco Visor Glass Inox Ph10p Preta 110V",
+    "price": "R$ 219,90",
+    "link": "https://carrinho.casasbahia.com.br/?idSku=55006536&IdListaDeCompras=945979&urlLista=https://listas.casasbahia.com.br/brendaejosia",
+    "img": "https://images-americanas.b2w.io/produtos/01/00/img/134495/4/134495491_1SZ.jpg",
+    "tipo":"Eletrodomésticos",
+    "loja": "Casas Bahia",
+    "status": 0
+},
+{
+    "id": 2,
+    "name": "Liquidificador Philco PH800 800W Preto 110V",
+    "price": "R$ 129,90",
+    "link": "https://carrinho.casasbahia.com.br/?idSku=11200695&idLojista=18368&IdListaDeCompras=945979&urlLista=https://listas.casasbahia.com.br/brendaejosias",
+    "img": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=810001685",
+    "tipo":"Eletrodomésticos",
+    "loja": "Casas Bahia",
+    "status": 1
+},
+{
+    "id": 3,
+    "name": "Ferro de Passar Roupa a Vapor Easyline SIE60 Azul",
+    "price": "R$ 89,10",
+    "link": "https://www.casasbahia.com.br/Eletroportateis/FerrodePassar/FerroaVapor/ferro-de-passar-roupa-a-vapor-easyline-sie60-azul-11829525.html?IdSku=11829525",
+    "img": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1566680759",
+    "tipo":"Eletrodomésticos",
+    "loja": "Casas Bahia",
+    "status": 1
+},
+{
+    "id": 4,
+    "name": "Fritadeira Air Fryer BFR21P Britânia 127V",
+    "price": "R$ 339,99",
+    "link": "https://www.americanas.com.br/produto/2757357790?pfm_carac=fritadeira-air-fry-bfr21p-birtania",
+    "img": "https://images-americanas.b2w.io/produtos/01/00/img/2757362/4/2757362425_1SZ.jpg",
+    "tipo":"Eletrodomésticos",
+    "loja": "Americanas",
+    "status": 0
+},
+{
+    "id": 5,
+    "name": "Micro-ondas Panasonic 27L NN-ST55LMRUN Prata",
+    "price": "R$ 597,55",
+    "link": "https://www.magazineluiza.com.br/micro-ondas-panasonic-27l-nn-st55lmrun-prata/p/228055400/ed/mond/",
+    "img": "https://a-static.mlcdn.com.br/618x463/micro-ondas-panasonic-27l-nn-st55lmrun-prata/magazineluiza/228055400/e627237f0f8720d51710a4782663b62c.jpg",
+    "tipo": "Eletrodomésticos",
+    "loja": "Magalu",
+    "status": 0
+},
+{
+    "id": 6,
+    "name": "Travesseiro Neo Prime 233 Fios EcoPluma Camesa",
+    "price": "R$ 74,39",
+    "link": "https://www.americanas.com.br/produto/30610326?pfm_carac=travesseiro-neo-prime",
+    "img": "https://images-americanas.b2w.io/produtos/01/00/img/30610/3/30610327_1SZ.jpg",
+    "tipo":"Cama_mesa_e_banho",
+    "loja": "Americanas",
+    "status": 0
+},
+{
+    "id": 7,
+    "name": "Faqueiro 20 Peças Leme Preto Tramontina",
+    "price": "R$ 29,99",
+    "link": "https://www.americanas.com.br/produto/96899961?pfm_carac=faqueiro-leme-20-pecas",
+    "img": "https://images-americanas.b2w.io/produtos/01/00/img/96899/9/96899964_1SZ.jpg",
+    "tipo":"Utensílios_cozinha",
+    "loja": "Americanas",
+    "status": 1
+},
+{
+    "id": 8,
+    "name": "Pipoqueira 22cm Panelux Polida Classic",
+    "price": "R$ 74,99",
+    "link": "https://www.casaevideo.com.br/pipoqueira-22cm-panelux-polida-classic-/p",
+    "img": "https://casaevideodigital.vteximg.com.br/arquivos/ids/197893-1000-1000/Pipoqueira-22cm-Panelux-Polida-Classic-1628631.jpg?v=636947459046270000",
+    "tipo":"Utensílios_cozinha",
+    "loja": "Casa&Video",
+    "status": 0
+},
+{
+    "id": 9,
+    "name": "Pedra para afiar dupla face Brinox",
+    "price": "R$ 39,99",
+    "link": "https://www.casaevideo.com.br/pedra-para-afiar-dupla-face-20-cm-suprema-20-x-5-cm-36267/p",
+    "img": "https://casaevideodigital.vteximg.com.br/arquivos/ids/275326-1000-1000/image-7314b78236684a7b81b36ad36d82ed11.jpg?v=637580786375070000",
+    "tipo":"Utensílios_cozinha",
+    "loja": "Casa&Video",
+    "status": 0
+},
+{
+    "id": 10,
+    "name": "Colher para Sorvete Asti Preto Brinox",
+    "price": "R$ 18,99",
+    "link": "https://www.casaevideo.com.br/colher-para-sorvete---asti-225-cm-26589/p",
+    "img": "https://casaevideodigital.vteximg.com.br/arquivos/ids/229926-1000-1000/image-60d3dccd0d1940bebf4cf1d2341cb787.jpg?v=637520236650500000",
+    "tipo":"Utensílios_cozinha",
+    "loja": "Casa&Video",
+    "status": 0
+},
+{
+    "id": 11,
+    "name": "Tábua de Corte Plástica Ece",
+    "price": "R$ 19,99",
+    "link": "https://www.casaevideo.com.br/tabua-de-corte-plastica-ece-0200-branca/p",
+    "img": "https://casaevideodigital.vteximg.com.br/arquivos/ids/197841-1000-1000/Tabua-de-Corte-Plastica-Ece-0200-Branca-1599550.jpg?v=636947457408730000",
+    "tipo":"Utensílios_cozinha",
+    "loja": "Casa&Video",
+    "status": 1
+},
+{
+    "id": 12,
+    "name": "Panela Wok Garlic 4,1L 28x9cm Grafite Brinox",
+    "price": "R$ 139,99",
+    "link": "https://www.casaevideo.com.br/wok-com-tampa-e-alcas-garlic---41-l---brinox-28-x-9-cm-22205/p",
+    "img": "https://casaevideodigital.vteximg.com.br/arquivos/ids/214783-1000-1000/image-d87224e709e14018b422d1b7e2223738.jpg?v=637384808333070000",
+    "tipo":"Utensílios_cozinha",
+    "loja": "Casa&Video",
+    "status": 0
+},
+{
+    "id": 13,
+    "name": "Panela Caçarola antiaderente Premium 20cm 3L Panelux",
+    "price": "R$ 74,90",
+    "link": "https://www.magazineluiza.com.br/panela-cacarola-antiaderente-20cm-premium-cereja-3l-tampa-de-vidro-panelux/p/cakk5be1f9/ud/caud/",
+    "img": "https://a-static.mlcdn.com.br/1500x1500/panela-cacarola-antiaderente-20cm-premium-cereja-3l-tampa-de-vidro-panelux/mixeletro/5311p/821ad3c6d715e573fdffc04f2633363c.jpg",
+    "tipo":"Utensílios_cozinha",
+    "loja": "Magalu",
+    "status": 0
+},
+{
+    "id": 14,
+    "name": "Garrafa Térmica de Pressão 1,8L Invicta Slim Preta",
+    "price": "R$ 89,99",
+    "link": "https://www.casaevideo.com.br/garrafa-termica-de-pressao-18l-invicta-slim-preta-/p",
+    "img": "https://casaevideodigital.vteximg.com.br/arquivos/ids/203416-1000-1000/Garrafa-Termica-de-Pressao-18L-Invicta-Slim-Preta-1657640.jpg?v=637100030781430000",
+    "tipo":"Utensílios_cozinha",
+    "loja": "Casa&Video",
+    "status": 0
+},
+{
+    "id": 15,
+    "name": "Jogo de Toalhas Royal Patter 2 Peças",
+    "price": "R$ 29,90",
+    "link": "https://santistadecora.com.br/pr/jogo-de-toalhas-royal-patter-2-pecas/BD.KIT2PA6331",
+    "img": "https://dgn7v532p0g5j.cloudfront.net/unsafe/products/photos/semi-environment/patter-1585687963938.jpg",
+    "tipo":"Cama_mesa_e_banho",
+    "loja": "Santista",
+    "status": 1
+},
+{
+    "id": 16,
+    "name": "Jogo de Potes para Mantimentos com Tampa Tradicional 5 Peças",
+    "price": "R$ 37,90",
+    "link": "https://santistadecora.com.br/pr/jogo-de-potes-para-mantimentos-com-tampa-tradicional-5-pecas/BD.5PCTRADITRAD",
+    "img": "https://dgn7v532p0g5j.cloudfront.net/unsafe/products/photos/semi-environment/img_0001-3jpg-1602183684972.jpg",
+    "tipo":"Utensílios_cozinha",
+    "loja": "Santista",
+    "status": 0
+},
+{
+    "id": 17,
+    "name": "Jogo de Cama Solteiro 3 Peças 100% Algodão Santista Royal Indigo",
+    "price": "R$ 89,99",
+    "link": "https://www.casaevideo.com.br/jogo-solteiro-3-pecas-100-algodao-royal-santista-berlin-indigo/p",
+    "img": "https://casaevideodigital.vteximg.com.br/arquivos/ids/227476-1000-1000/Jogo-Solteiro-3-Pecas-100--Algodao-Royal-Santista-Berlin-Indigo-1692003.jpg?v=637502258330930000",
+    "tipo":"Cama_mesa_e_banho",
+    "loja": "Casa&Video",
+    "status": 0
+},
+{
+    "id": 18,
+    "name": "Cadeira de Jantar Áurea em Tecido Suede Trama",
+    "price": "R$ 229,00",
+    "link": "https://carrinho.casasbahia.com.br/?idSku=13439779&idLojista=10037&IdListaDeCompras=945979&urlLista=https://listas.casasbahia.com.br/brendaejosias",
+    "img": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1006788166",
+    "tipo":"Móveis",
+    "loja": "Casas Bahia",
+    "status": 0
+},
+{
+    "id": 19,
+    "name": "Lava e Seca Samsung 11kg WD11M4453J",
+    "price": "R$ 3.979,00",
+    "link": "https://www.querodecasamento.com.br/lista-de-casamento/brenda-josias",
+    "img": "https://a-static.mlcdn.com.br/1500x1500/lava-e-seca-samsung-11kg-wd11m4453j-12-programas-de-lavagem/magazineluiza/010591200/65291a55617f0c315b9b3e8f1dac461f.jpg",
+    "tipo":"Eletrodomésticos",
+    "loja": "Magalu",
+    "status": 0
+},
+{
+    "id": 20,
+    "name": "Rack Retrô Pet Angora Freijó e Azul 136 cm",
+    "price": "R$ 554,99",
+    "link": "https://www.mobly.com.br/rack-retro-pet-angora-freijo-e-azul-136-cm-729309.html?related-catalog=OL487RA89MWKMOB#t=catalog-group",
+    "img": "https://staticmobly.akamaized.net/r/2000x2000/p/Olivar-MC3B3veis-Rack-RetrC3B4-Pet-Angora-FreijC3B3-e-Azul-136-cm-5816-903927-2.jpg",
+    "tipo":"Móveis",
+    "loja": "Mobly",
+    "status": 0
+},
+{
+    "id": 21,
+    "name": "Puff Báu Suede DetroitDecora Cinza",
+    "price": "R$ 69,90",
+    "link": "https://shopee.com.br/product/335722378/6780035092?smtt=0.356162946-1627512245.10",
+    "img": "https://cf.shopee.com.br/file/39020ec0ffb3b8a2aa8be6702ecaa5e0",
+    "tipo":"Móveis",
+    "loja": "Shopee",
+    "status": 1
+},
+{
+    "id": 22,
+    "name": "Capacho Ecológico Geek Evolution",
+    "price": "R$ 59,90",
+    "link": "https://www.geek10.com.br/produtos/capacho-ecologico-geek-evolution",
+    "img": "https://images.tcdn.com.br/img/img_prod/723087/capacho_ecologico_geek_evolution_4271_1_20201214005631.jpg",
+    "tipo":"Utilidades",
+    "loja": "Geek10",
+    "status": 0
+},
+{
+    "id": 23,
+    "name": "Conjunto de 6 Xicaras de Café Vidro 70ml com Pires Brinox",
+    "price": "R$ 59,99",
+    "link": "https://www.casaevideo.com.br/conjunto-de-6xicaras-de-cafe-vidro-70ml-com-pires-brinox/p",
+    "img": "https://casaevideodigital.vteximg.com.br/arquivos/ids/298873-1000-1000/Conjunto-6-Xicaras-Cha-Vidro-700ml-com-Pires-Brinox-1718460c.jpg?v=637608451908800000",
+    "tipo":"Utensílios_cozinha",
+    "loja": "Casa&Video",
+    "status": 0
+},
+{
+    "id": 24,
+    "name": "Tábua de Passar Roupa Madeira Tramontina Compact",
+    "price": "R$ 79,99",
+    "link": "https://www.casaevideo.com.br/tabua-de-passar-madeira-compact-tramontina-sortida/p",
+    "img": "https://casaevideodigital.vteximg.com.br/arquivos/ids/192996-1000-1000/Tabua-de-Passar-Madeira-Compact-Tramontina--0358606.jpg?v=636753041820570000",
+    "tipo":"Utilidades",
+    "loja": "Casa&Video",
+    "status": 0
+},
+{
+    "id": 25,
+    "name": "Batedeira Mondial Preta Inox B-50-B 500W 110V",
+    "price": "R$ 149,99",
+    "link": "https://www.americanas.com.br/produto/3320551928?pfm_carac=batedeira-cake-inox-4-velocidades-mondial",
+    "img": "https://images-americanas.b2w.io/produtos/01/00/img/3320551/9/3320551944_1SZ.jpg",
+    "tipo":"Eletrodomésticos",
+    "loja": "Americanas",
+    "status": 0
+},
+{
+    "id": 26,
+    "name": "Panela de Arroz Philco PH10b Visor Glass Inox 110V",
+    "price": "179,90",
+    "link": "https://www.magazineluiza.com.br/panela-de-arroz-philco-10-xicaras-ph10b-visor-glass-inox/p/ecj320bgb4/ep/pael/",
+    "img": "https://a-static.mlcdn.com.br/1500x1500/panela-de-arroz-philco-10-xicaras-ph10b-visor-glass-inox/britania/6145/4192a000287f122cf0a8e234b25e044c.jpg",
+    "tipo":"Eletrodomésticos",
+    "loja": "Magalu",
+    "status": 0
+}, 
+{
+    "id": 27,
+    "name": "Jogo De Facas 2 Peças Plenus Tramontina",
+    "price": "18,59",
+    "link": "https://www.magazineluiza.com.br/jogo-de-facas-2-pcs-plenus-tramontina/p/ca7gfdh572/rc/rcnm/?&seller_id=maniadepresentes",
+    "img": "https://a-static.mlcdn.com.br/618x463/jogo-de-facas-2-pcs-plenus-tramontina/maniadepresentes/552039108/02b1712e0de4116b3054c13b1ab6acfb.jpg",
+    "tipo":"Utensílios_cozinha",
+    "loja": "Magalu",
+    "status": 1
+}
+
+
+
+]
